@@ -1,1 +1,0 @@
-# Reverse-Migrations-with-HCX-and-putting-the-VMs-into-the-correct-vCenter-Folder
